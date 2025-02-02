@@ -1,0 +1,11 @@
+{
+    "description": "Portfolio to show my work",
+    "repo": "https://github.com/birdup000/birdsite",
+    "owner": {
+        "username": "birdup000",
+        "email": "[email protected]"
+    },
+    "record": {
+        "CNAME": "birdup000.github.io"
+    }
+}
